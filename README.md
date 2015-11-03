@@ -1,4 +1,4 @@
-# Better-JS-Theme
+# Better-JS-sublime-theme
 Sublime theme for better highlighting JavaScript syntax
 
 
